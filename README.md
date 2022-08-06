@@ -1,16 +1,11 @@
-# lesson_task
+# car_store
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+So well guys. This project is specialized to working with RestApi and with SQL database.
+The design of this app not looks pretty good.
+But it has a really large fuctionality.
+So this project has only three screens.
+I had tried to work with functionality.
+So this is disclaimer to that design is not well-designed.
+However you can just use my example of Sql database and RestApi.
